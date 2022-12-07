@@ -1,0 +1,1 @@
+(this["webpackJsonpsso-login-panel"]=this["webpackJsonpsso-login-panel"]||[]).push([[23],{1354:function(n,e,s){"use strict";s.r(e);var t=s(0),a=s.n(t);e.default=function(){return a.a.createElement("h1",null,"Menu1-1")}}}]);
