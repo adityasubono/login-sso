@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c41e1042f38401d8807027f2320898f9",
+    "revision": "bc32687ff61cd859aa2adb181a0c47f3",
     "url": "/react-antd-admin-template/index.html"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-antd-admin-template/static/css/3.5821fad2.chunk.css"
   },
   {
-    "revision": "26b982bf5e02c5738180",
+    "revision": "c7cd67c940998fbf1c2d",
     "url": "/react-antd-admin-template/static/css/33.efc543f0.chunk.css"
   },
   {
@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-antd-admin-template/static/css/RichTextEditor.bae160b2.chunk.css"
   },
   {
-    "revision": "2f824482d6968ec9f0b0",
+    "revision": "d60a44f30a78d925293e",
     "url": "/react-antd-admin-template/static/css/UploadExcel.9579c327.chunk.css"
   },
   {
@@ -80,12 +80,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-antd-admin-template/static/js/3.35c6035c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26b982bf5e02c5738180",
-    "url": "/react-antd-admin-template/static/js/33.fbcc8b5e.chunk.js"
+    "revision": "c7cd67c940998fbf1c2d",
+    "url": "/react-antd-admin-template/static/js/33.a37787e5.chunk.js"
   },
   {
     "revision": "2900a619c29ed41592733ee335eb49b4",
-    "url": "/react-antd-admin-template/static/js/33.fbcc8b5e.chunk.js.LICENSE.txt"
+    "url": "/react-antd-admin-template/static/js/33.a37787e5.chunk.js.LICENSE.txt"
   },
   {
     "revision": "3d005264379ab5cfe0ce",
@@ -224,8 +224,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-antd-admin-template/static/js/Table.cf7b05d6.chunk.js"
   },
   {
-    "revision": "2f824482d6968ec9f0b0",
-    "url": "/react-antd-admin-template/static/js/UploadExcel.fa0fa5d1.chunk.js"
+    "revision": "d60a44f30a78d925293e",
+    "url": "/react-antd-admin-template/static/js/UploadExcel.491b21a7.chunk.js"
   },
   {
     "revision": "f89311ffa97e58e74dd8",
@@ -244,8 +244,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-antd-admin-template/static/js/main.cbad74e0.chunk.js"
   },
   {
-    "revision": "abe38aa9ba9a5ce2abc0",
-    "url": "/react-antd-admin-template/static/js/runtime-main.6460e2ea.js"
+    "revision": "dca3c2bad594a9a8d88c",
+    "url": "/react-antd-admin-template/static/js/runtime-main.c9a5222c.js"
   },
   {
     "revision": "9161e238b798c444b732dbbb7420a09e",
